@@ -17,7 +17,7 @@ jobs:
       - name: Generate snake game from GitHub contribution grid
         uses: Platane/snk@v3.3.0
         with:
-          github_user: your-github-username
+          github_user: jsfl-24
           png_width: 1000
           png_height: 1000
           # You can adjust the width and height to fit your preference
