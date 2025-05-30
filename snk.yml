@@ -2,7 +2,7 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # every Sunday at midnight UTC
+    - cron: "0 0 * * 0" # every Sunday at midnight UTC
   push:
     branches:
       - main # or master, depending on your default branch name
@@ -20,6 +20,7 @@ jobs:
           github_user: jsfl-24
           png_width: 1000
           png_height: 1000
+          cell_size: 1 # Ensures each cell matches a contribution box
           # You can adjust the width and height to fit your preference
 
       - name: Commit and push generated snake image
