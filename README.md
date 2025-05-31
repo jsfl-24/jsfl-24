@@ -18,13 +18,6 @@
 
 ---
 
-## Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode,figma,mysql" alt="Toolbox Icons" />
-</p>
-
----
 
 ## GitHub Stats
 
@@ -33,4 +26,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsfl-24&theme=tokyonight" height="150" alt="GitHub Streak Stats" />
 </p>
 
----
+
+## Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,git,github,vscode,figma,mysql" alt="Toolbox Icons" />
+</p>
