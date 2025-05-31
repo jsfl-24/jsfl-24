@@ -18,23 +18,6 @@
 
 ---
 
-## About Me
-
-```yaml
-username: jsfl-24
-location: Earth
-interests:
-  - Projects
-  - Automation
-  - Open source
-  - New tech
-```
-
-I work with **Python**, **React.js**, and web tech.  
-Always learning and sharing.
-
----
-
 ## Toolbox
 
 <p align="center">
