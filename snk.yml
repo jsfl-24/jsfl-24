@@ -29,3 +29,16 @@ jobs:
           commit_message: "Update snake game image"
           file_pattern: "*.png"
           branch: main # or master, depending on your default branch name
+
+# Hi there 👋
+
+This repository generates a snake game from my GitHub contribution graph!
+
+## 🐍 Contribution Snake
+
+![Snake animation](./snake.png)
+
+_The snake image above is automatically updated by a GitHub Actions workflow every week._
+
+---
+Generated with [Platane/snk](https://github.com/Platane/snk)
